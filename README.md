@@ -1,1 +1,1 @@
-# White-Label
+# White Label
